@@ -19,7 +19,7 @@ Hey everyone let me guide you through the installation steps:-
 
 8. php artisan serve
 
-9. localhost/Laravel-5.6-CRUD/public
+9. localhost/Laravel-CRUD/public
 
 Thank You :)
 
