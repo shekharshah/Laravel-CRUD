@@ -11,7 +11,7 @@ Hey everyone let me guide you through the installation steps:-
 
 4. Run this command in your terminal composer install / composer update. If you don't have composer installed in your system then go to ( https://getcomposer.org/download/ ) for windows.
 
-5. Go to your project directory in that open .env file and set your database setting name and password.
+5. Go to your project directory in that open .env file and set your database name and password.
 
 6. php artisan key:generate
 
@@ -19,7 +19,9 @@ Hey everyone let me guide you through the installation steps:-
 
 8. php artisan serve
 
-9: localhost/Laravel-5.6-CRUD/public
+9. localhost/Laravel-5.6-CRUD/public
+
+Thank You :)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
